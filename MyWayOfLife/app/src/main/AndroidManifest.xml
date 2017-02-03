@@ -45,6 +45,11 @@
                 android:name=".OverviewMap"
                 android:label="@string/title_activity_overview_map">
         </activity>
+        <activity
+                android:name=".TabedActivity"
+                android:label="@string/title_activity_tabed"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
     </application>
 
 </manifest>
